@@ -8,7 +8,7 @@ namespace JenkinsTest.Controllers
 {
     public class DefaultController : Controller
     {
-        // GET: Default/
+        // GET: Default/ /
         public ActionResult Index()
         {
             return View();
